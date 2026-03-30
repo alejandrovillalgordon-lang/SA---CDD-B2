@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260330165008JCSW7B</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260330165008P6GBCB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA ·. Preparem el nostre coneixement d&apos;actuació</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CDD - B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alex</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>ca</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>public domain</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774882192213</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mndb14bm-bkppkwifu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Benvinguda a la nova SA!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Benvinguda a la nova SA!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Benvinguda a la nova SA!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Benvinguda a la nova SA!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mndb14bm-bkppkwifu</odePageId>
+      <odeBlockId>block-1774803903445-09ibvm1b6</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mndb14bm-bkppkwifu</odePageId>
+          <odeBlockId>block-1774803903445-09ibvm1b6</odeBlockId>
+          <odeIdeviceId>idevice-1774803778834-oytyb0pie</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bon dia a tots i totes,</p>
+<p>Iniciem nova SA amb 'Preparem el nostre coneixement d'actuació', on tractarem els continguts de Primers Auxilis. En primer lloc teniu un Test d'avaluació inicial per veure què sabeu a dia d'avui. En obrir-ho, trobareu la informació de com es realitza (no compta per nota).</p>
+<p>Després trobareu un document on teniu els apunts que treballarem al llarg de les diferents sessions teòriques, podeu fer ús d'ell en qualsevol moment que el necessiteu.</p>
+<p>Endavant!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774803778834-oytyb0pie","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Bon dia a tots i totes,</p>\n<p>Iniciem nova SA amb 'Preparem el nostre coneixement d'actuació', on tractarem els continguts de Primers Auxilis. En primer lloc teniu un Test d'avaluació inicial per veure què sabeu a dia d'avui. En obrir-ho, trobareu la informació de com es realitza (no compta per nota).</p>\n<p>Després trobareu un document on teniu els apunts que treballarem al llarg de les diferents sessions teòriques, podeu fer ús d'ell en qualsevol moment que el necessiteu.</p>\n<p>Endavant!</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mndb14bo-4c44xcp7w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Test avaluació inicial</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Test avaluació inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nova pàgina</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Test avaluació inicial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mndb14bo-4c44xcp7w</odePageId>
+      <odeBlockId>block-1774802709766-ulepbr5bh</odeBlockId>
+      <blockName>Formulari</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mndb14bo-4c44xcp7w</odePageId>
+          <odeBlockId>block-1774802709766-ulepbr5bh</odeBlockId>
+          <odeIdeviceId>idevice-1774802709761-g59h75aov</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1774802709761-g59h75aov" data-evaluationb="false" data-evaluationid="a940dff7-dfde-4570-b079-eb9ff3820a95"></div>
+            <div id="frmMainContainer-idevice-1774802709761-g59h75aov" class="form-IDevice" data-id="idevice-1774802709761-g59h75aov">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Per realitzar la prova inicial, simplement heu de posar en marxa el vostre cervell. El test consta de 12 preguntes, a cada pàgina tindreu una pregunta i, quan l'hagueu respost, haureu de clicar a la fletxa de la dreta que t'envia a la següent (sempre teniu opció de tornar enrere si voleu canviar o comprovar alguna resposta anterior).</p>
+<p></p>
+<p>Per últim, haureu de prèmer a 'Comprova' per saber el resultat del vostre test, però només quan hagueu contestat les 12 preguntes.</p>
+<p></p>
+<p>Endavant!</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Temps per pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1774802709761-g59h75aov">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1774802709761-g59h75aov" style="display:none;">
+                      <button  id="frmStartGame-idevice-1774802709761-g59h75aov" type="button" class="btn btn-primary">Prem aquí per començar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1774802709761-g59h75aov" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1774802709761-g59h75aov" > </div>
+                        <div id="frmCover-idevice-1774802709761-g59h75aov" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1774802709761-g59h75aov" class="form-results-container inline">
+                        <div id="form-score-idevice-1774802709761-g59h75aov" class="score-text">Puntuació.</div>
+                        <div id="form-result-test-idevice-1774802709761-g59h75aov" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1774802709761-g59h75aov" class="btn btn-primary" type="button" value="Comprova"
+                            data-id="idevice-1774802709761-g59h75aov" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1774802709761-g59h75aov" type="button" value="Reinicia"
+                            data-id="idevice-1774802709761-g59h75aov" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1774802709761-g59h75aov" class="btn btn-primary" type="button" value="Mostra respostes"
+                            data-id="idevice-1774802709761-g59h75aov" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1774802709761-g59h75aov" type="button" value="Desa puntuació" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774802709761-g59h75aov","evaluation":false,"evaluationID":"a940dff7-dfde-4570-b079-eb9ff3820a95","repeatActivity":true,"isScorm":0,"textButtonScorm":"Desa puntuació","weighted":100,"msgs":{"msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgYouScore":"La teva puntuació és","msgScore":"Puntuació","msgWeight":"Pes","msgYouLastScore":"La darrera puntuació desada és","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgActityComply":"Ja has fet aquesta activitat.","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Formulari","msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgSaveScore":"Desa puntuació","msgResult":"Resultat","msgCheck":"Comprova","msgReset":"Reinicia","msgShowAnswers":"Mostra respostes","msgTestResultPass":"Enhorabona! Has superat la prova","msgTestResultNotPass":"Ho sento. NO has superat la prova","msgTrueFalseHelp":"Selecciona si l'afirmació és certa o falsa","msgDropdownHelp":"Tria la resposta correcta entre les opcions proposades","msgFillHelp":"Omple els espais en blanc amb la paraula adequada","msgSingleSelectionHelp":"Opció múltiple amb només una resposta correcta","msgMultipleSelectionHelp":"Opció múltiple amb múltiples respostes correctes","msgPlayStart":"Prem aquí per començar","msgTrue":"Veritat","msgFalse":"Mentida","msgNext":"Següent","msgPrevious":"Anterior","msgSuggestion":"Suggerència"},"id":"idevice-1774802709761-g59h75aov","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Per realitzar la prova inicial, simplement heu de posar en marxa el vostre cervell. El test consta de 12 preguntes, a cada pàgina tindreu una pregunta i, quan l'hagueu respost, haureu de clicar a la fletxa de la dreta que t'envia a la següent (sempre teniu opció de tornar enrere si voleu canviar o comprovar alguna resposta anterior).</p>\n<p></p>\n<p>Per últim, haureu de prèmer a 'Comprova' per saber el resultat del vostre test, però només quan hagueu contestat les 12 preguntes.</p>\n<p></p>\n<p>Endavant!</p>","questionsData":[{"id":"1774802927124-RIS3W","activityType":"selection","baseText":"<p>Què signifiquen les sigles PAS?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Pensar – Actuar – Socórrer"],[true,"b) Protegir – Avisar – Socórrer"],[false,"c) Prevenir – Auxiliar – Salvar"],[false,"d) Parar – Ajudar – Sanar"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774802983710-OCIDK","activityType":"selection","baseText":"<p>Quin número s’ha de trucar en cas d’emergència?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"a) 112"],[false,"b) 911"],[false,"c) 061"],[false,"d) 060"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803147529-BPL1Z","activityType":"selection","baseText":"<p>Quan s’ha d’iniciar una RCP bàsica?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"a) Quan està inconscient i no respira"],[false,"b) Quan té dolor toràcic"],[false,"c) Quan la persona està marejada"],[false,"d) Quan ha patit una caiguda"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803196382-E2NP6","activityType":"selection","baseText":"<p>Quin número s’ha de trucar en cas d’emergència?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"a) 112"],[false,"b) 911"],[false,"c) 061"],[false,"d) 060"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803249513-01IJD","activityType":"selection","baseText":"<p>Quina és la proporció correcta en una RCP bàsica?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) 15:2"],[false,"b) 30:1"],[false,"c) 20:1"],[true,"d) 30:2"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803299473-DJGDU","activityType":"selection","baseText":"<p>Què és la posició lateral de seguretat (PLS)?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"a) Una posició per a persones inconscients que respiren"],[false,"b) Una posició per fer RCP"],[false,"c) Una posició per a fractures"],[false,"d) Una posició per a hemorràgies"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803353810-J4SMY","activityType":"selection","baseText":"<p>Per què s’utilitza la posició lateral de seguretat?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Per evitar el dolor"],[true,"b) Per mantenir les vies respiratòries obertes"],[false,"c) Per immobilitzar el cos"],[false,"d) Per baixar la febre"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803407482-V6PTU","activityType":"selection","baseText":"<p>Què indica una situació d’ennuegament greu?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Tos forta"],[false,"b) Pot parlar"],[true,"c) No pot respirar ni parlar"],[false,"d) Respira lentament"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803453145-MZQPX","activityType":"selection","baseText":"<p>Quan s’ha d’aplicar la maniobra de Heimlich?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Quan una persona tus"],[false,"b) Quan està inconscient"],[true,"c) Quan està ennuegada i no pot respirar"],[false,"d) Quan té dolor abdominal"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803504034-VA6U7","activityType":"selection","baseText":"<p>On s’han de col·locar les mans per fer la maniobra de Heimlich?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Al pit"],[true,"b) Entre el melic i el tòrax"],[false,"c) Al coll"],[false,"d) A l’esquena"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803547820-YX04T","activityType":"selection","baseText":"<p>Davant una hemorràgia externa, què s’ha de fer?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Rentar la ferida amb aigua"],[true,"b) Fer pressió directa sobre la ferida"],[false,"c) Treure objectes clavats"],[false,"d) Aplicar calor"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803602918-TSXQF","activityType":"selection","baseText":"<p>Quina és la funció principal d’un vendatge?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"a) Protegir, comprimir o immobilitzar"],[false,"b) Curar la ferida"],[false,"c) Evitar el dolor"],[false,"d) Substituir una fèrula"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1774803656192-UQOPR","activityType":"selection","baseText":"<p>Per què és important conèixer primers auxilis a Educació Física?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a) Per substituir el personal sanitari"],[false,"b) Per suspendre menys"],[false,"c) Per evitar fer activitat física"],[true,"d) Per actuar correctament davant accidents i lesions"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":true}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mndb14bp-5uf1jrqtz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Continguts importants a desenvolupar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Continguts importants a desenvolupar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Continguts importants a desenvolupar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mndb14bp-5uf1jrqtz</odePageId>
+      <odeBlockId>block-1774804406085-lmrrr7qwm</odeBlockId>
+      <blockName>Galeria d&apos;imatges</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mndb14bp-5uf1jrqtz</odePageId>
+          <odeBlockId>block-1774804406085-lmrrr7qwm</odeBlockId>
+          <odeIdeviceId>idevice-1774804406076-1tgabry7g</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura1.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura1.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura2.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura2.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura3.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura3.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura4.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura4.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura5.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura5.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura6.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura6.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura7.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura7.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_7" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura8.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura8.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_8" class="imageContainer"> <a idevice-id="idevice-1774804406076-1tgabry7g" title="" href="{{context_path}}/content/resources/Captura9.PNG" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura9.PNG" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774804406076-1tgabry7g","img_0":{"img":"{{context_path}}/content/resources/Captura1.PNG","thumbnail":"{{context_path}}/content/resources/Captura1.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Captura2.PNG","thumbnail":"{{context_path}}/content/resources/Captura2.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Captura3.PNG","thumbnail":"{{context_path}}/content/resources/Captura3.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/Captura4.PNG","thumbnail":"{{context_path}}/content/resources/Captura4.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/Captura5.PNG","thumbnail":"{{context_path}}/content/resources/Captura5.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/Captura6.PNG","thumbnail":"{{context_path}}/content/resources/Captura6.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/Captura7.PNG","thumbnail":"{{context_path}}/content/resources/Captura7.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"{{context_path}}/content/resources/Captura8.PNG","thumbnail":"{{context_path}}/content/resources/Captura8.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_8":{"img":"{{context_path}}/content/resources/Captura9.PNG","thumbnail":"{{context_path}}/content/resources/Captura9.PNG","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
